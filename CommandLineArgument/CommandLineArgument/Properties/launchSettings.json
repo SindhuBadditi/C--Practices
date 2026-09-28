@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "CommandLineArgument": {
+      "commandName": "Project",
+      "commandLineArgs": "Ravi 25 35000\r\n",
+      "environmentVariables": {
+        "name": "Ravi",
+        "age": "25",
+        "salary": "35000"
+      },
+      "remoteDebugEnabled": false
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "Ravi 25 35000\r\n",
+      "environmentVariables": {
+        "name": "Ravi",
+        "age": "25",
+        "salary": "35000"
+      },
+      "remoteDebugEnabled": false
+    }
+  }
+}
