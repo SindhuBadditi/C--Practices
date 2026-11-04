@@ -1,7 +1,4 @@
-﻿using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
-
-class Booking
+﻿class Booking
 {
     protected static decimal totalRevenue = 0;
     static String[] seats = new string[10];
@@ -11,7 +8,7 @@ class Booking
     static int count = 0;
     private string BookingID;
     private string CustomerName;
-    private int SeatNumber;
+    private int SeatNumbe
     static readonly string MovieName="Doraemon";
     private string ticketType;
     public Booking(string name)
